@@ -1,6 +1,6 @@
 ## Speed Typing
 
-Created React Custom hooks to create typing game
+Created React Custom hooks to create typing game in React JS
 
 ## Tools
 - [React](https://reactjs.org/)
